@@ -25,7 +25,7 @@ Amplify.configure(awsExports);
 global.Buffer = Buffer;
 
 function App() {
-  const pageTitle = "Welcome to 30 Days of Amplify";
+  const pageTitle = "Cloudly App ";
   return (
     <div className="App">
       <Authenticator>
